@@ -1,6 +1,5 @@
 ---
 date: 2025-07-07
-draft: true
 tags:
 - de-microsofting
 ---
