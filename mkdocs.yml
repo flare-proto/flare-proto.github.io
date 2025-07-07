@@ -12,10 +12,7 @@ plugins:
   - blog
   - tags
 
-nav:
-  - index.md
-  - Blog:
-    - blog/index.md
+
   
 markdown_extensions:
   - admonition
