@@ -1,1 +1,30 @@
-site_name: My Docs
+site_name: Flare Proto
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep orange
+  features:
+    - navigation.indexes
+
+plugins:
+  - blog
+  - tags
+
+nav:
+  - index.md
+  - Blog:
+    - blog/index.md
+  
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+extra_css:
+  - stylesheets/extra.css
