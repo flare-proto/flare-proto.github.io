@@ -12,7 +12,7 @@ I am DONE with microsoft's BS with windows
 ## Possible OSes
 | OS | Score |
 |:--:| ----:|
-| Arch | -1 |
+| Arch | -2 |
 | Ubuntu | 0 |
 | SteamOS | N/A |
 | Bazzite | 5 |
@@ -31,6 +31,7 @@ I am DONE with microsoft's BS with windows
     - difficulty
     - Arch
     - not made for gaming
+    - Audio
 
 === "Ubuntu"
     ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png?20120210072525){ width=25}
