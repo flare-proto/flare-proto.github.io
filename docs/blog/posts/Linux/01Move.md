@@ -7,7 +7,7 @@ tags:
     - Linux
 ---
 # Moving To Linux - Deciding a distro
-I am DONE with microsoft's BS on windows
+I am DONE with microsoft's BS with windows
 <!-- more -->
 ## Possible OSes
 | OS | Score |
