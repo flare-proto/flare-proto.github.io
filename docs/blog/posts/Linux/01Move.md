@@ -6,7 +6,7 @@ tags:
     - de-microsofting
     - Linux
 ---
-# Moving To Linux
+# Moving To Linux - Deciding a distro
 I am DONE with microsoft's BS on windows
 <!-- more -->
 ## Possible OSes
