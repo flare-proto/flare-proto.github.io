@@ -8,7 +8,7 @@ tags:
 comments: true
 ---
 # Moving To Linux - Phase 1
-Distro: Bazzite
+Distro: Bazzite ![Bazzite](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bazzite_Logo.svg/600px-Bazzite_Logo.svg.png?20240627153253){ width=25}
 
 Phase 1: Install and setup
 <!-- more -->
@@ -23,13 +23,15 @@ I left 166.89GB at end of disk when I installed Windows on my pc, planning for t
 ### Partitioning
 ![alt text](setupFail1.png)
 /// caption
-First Error Message
+`'ostree admin instutil set-kargs rhgb quiet root=UUID=... rw' exited with the code 1`
 
 [Reddit Thread on this](https://www.reddit.com/r/Bazzite/comments/1f5hxhy/please_help_installation_issue_with_boot_loader/)
 ///
 
 ![alt text](setupFail2.png)
 /// caption
+`'ostree container image deploy --sysroot=... --image=... --transport=oci --no-signature-verification' exited with the code 1`
+
 If I reboot and try again
 
 [someone's Github issue](https://github.com/ublue-os/bazzite/issues/1016)
@@ -81,3 +83,29 @@ mount point: /
 | G502 Mouse | piper    |
 | Stream deck| OpenDeck |
 
+VSCode user settings
+```json 
+{
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "host-spawn",
+      "args": ["/var/home/linuxbrew/.linuxbrew/bin/zsh"]
+    }
+  }
+}
+```
+
+![alt text](drivemapInstall.png)
+
+## Next Steps
+- [ ] move files and accounts
+- [ ] setup VR
+- [ ] move partitions around
+    - this might require a reinstall
+
+## Concluding Notes
+- So far I have enjoyed bazzite
+    - easy to install when you follow the guide
+- ***DO NOT FOLLOW THE PARTITIONING GUIDE FOR ARCH ON BAZZITE***
+- I need to clean up my files in windows
