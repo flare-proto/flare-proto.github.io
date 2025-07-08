@@ -2,6 +2,8 @@ site_name: Flare Proto
 
 theme:
   name: material
+  custom_dir: overrides
+
   palette:
     scheme: slate
     primary: deep orange
@@ -13,6 +15,7 @@ theme:
       WX: material/weather-tornado
 
 plugins:
+  - meta
   - blog
   - tags
   - search

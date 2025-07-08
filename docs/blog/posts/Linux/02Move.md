@@ -5,6 +5,7 @@ categories:
 tags:
     - de-microsofting
     - Linux
+comments: true
 ---
 # Moving To Linux - Phase 1
 Distro: Bazzite
@@ -72,3 +73,11 @@ mount point: /
     mount point: /var/home
         format:      btrfs (subvolume)
     ```
+## Post Install
+![alt text](hyfetch.png)
+
+|   Device   | Software |
+| ---------- | -------- |
+| G502 Mouse | piper    |
+| Stream deck| OpenDeck |
+
