@@ -1,6 +1,5 @@
 ---
 date: 2025-07-08
-draft: true
 categories:
     - Linux
 tags:
