@@ -5,6 +5,7 @@ categories:
 tags:
     - de-microsofting
     - Linux
+    - Bazzite
 comments: true
 ---
 # Moving To Linux - Phase 1
