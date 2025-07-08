@@ -1,7 +1,10 @@
 ---
 date: 2025-07-07
+categories:
+    - Linux
 tags:
-- de-microsofting
+    - de-microsofting
+    - Linux
 ---
 # Moving To Linux
 I am DONE with microsoft's BS on windows
