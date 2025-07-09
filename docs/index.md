@@ -16,3 +16,9 @@ random posts and shit from your local beeping proto
 
 ## Ref sheet
 ![Ref Sheet](flareRefSheet.png)
+
+## projects
+> links and pages coming soon 
+
+- xv-01(protogen visor matrix)
+- bot 3(vex v5rc push back robot)
