@@ -18,16 +18,33 @@ tags:
 | Do something  | Stand up for the person getting bulled | :material-arrow-left:
 
 ### The internet is not as simple
-often online situations are far more complex, with no clear victims or bullies. Even when there it is clear who is the victim and who the bully is, the situation is still far more complicated, where both the victim and bully are in the wrong.
+Often, online situations are far more complex, with no clear victims or bullies. Even when there it is clear who is the victim and who the bully is, the situation is still far more complicated, where both the victim and bully are in the wrong.
 
 ## Social Standards
-the audience of a joke is important, you would not tell your grandma an offensive joke, the internet is similar.
+The audience of a joke is important, you would not tell your grandma an offensive joke, the internet is similar.
 
 Jokes that may be acceptable with one group of people, can often not be acceptable with another group.
 
 Every group of people has a different set of social standards.
 
 When you post something online, if what you are saying could be seen as offensive, think twice about posting it, your actions have consequences and will always be part of your digital footprint.
+
+### Standards EVERYONE should follow
+1. Treat everyone with respect
+    - This includes using the correct pronouns
+2. Everyone is entitled to their own opinion
+    - It is ok to disagree
+3. Respect boundaries
+4. You are not entitled to interaction
+5. Follow the law
+6. Don't be bigoted
+7. Tag your posts
+8. Don't beg for free stuff
+9. Don't spam
+10. Use common sense
+11. Don't take credit for other people's creations
+12. No sharing personal information
+13. Follow the TOS for any online space you interact with
 
 ## Social Accountability
 
@@ -42,7 +59,6 @@ It is important to hold people accountable for their online actions, however it 
 
 ### Don't be the annoying house fly
 If you get blocked/banned, don't be the person that creates alt accounts just to prove a point[^2], instead move on and understand that different people have different opinions.
-
 
 [^1]: one of my grade 5 teachers
 [^2]:On many platforms, this is against TOS
