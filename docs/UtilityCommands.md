@@ -1,6 +1,6 @@
 # Utility Commands
+random commands that I find useful
 ## Git
-
 ### Wrong Email
 ```bash
 git filter-branch --env-filter '
