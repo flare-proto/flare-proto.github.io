@@ -99,6 +99,9 @@ VSCode user settings
 
 ![alt text](drivemapInstall.png)
 
+### Notes
+- LAYER VSCode dont use flathub
+
 ## Next Steps
 - [ ] move files and accounts
 - [ ] setup VR
