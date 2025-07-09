@@ -45,6 +45,8 @@ When you post something online, if what you are saying could be seen as offensiv
 11. Don't take credit for other people's creations
 12. No sharing personal information
 13. Follow the TOS for any online space you interact with
+14. fight, don't spread misinformation
+    - check the facts 
 
 ## Social Accountability
 
@@ -59,6 +61,9 @@ It is important to hold people accountable for their online actions, however it 
 
 ### Don't be the annoying house fly
 If you get blocked/banned, don't be the person that creates alt accounts just to prove a point[^2], instead move on and understand that different people have different opinions.
+
+## Misinformation
+it is important to combat the speed of Misinformation
 
 [^1]: one of my grade 5 teachers
 [^2]:On many platforms, this is against TOS
