@@ -3,7 +3,6 @@ date: 2025-07-08
 tags:
     - de-microsofting
 comments: true
-draft: true
 ---
 # Getting rid of Microsoft
 <!-- more -->
