@@ -8,10 +8,10 @@ tags:
 > "See something, Say something, Do something"[^1]
 <!-- more -->
 ## Bullying
-### The playground
+### The school playground
 > "See something, Say something, Do something"[^1]
 
-|               |        The playground - action         | How this relates to online situations |
+|               |     The school playground - action     | How this relates to online situations |
 | ------------- | -------------------------------------- | ------------------------------------- |
 | See something | If you see bullying                    | cyber bullying, online witch hunts
 | Say something | Inform someone responsible             | Inform a moderator
@@ -32,7 +32,8 @@ When you post something online, if what you are saying could be seen as offensiv
 ## Social Accountability
 
 > Your online actions have consequences, nothing can be completely removed from the internet.
-It is important to hold pepole accountable
+
+It is important to hold people accountable for their online actions, however it is important to do this in a respectful way.
 
 ### Someone made an offensive joke
 ***If*** you are comfortable, tell them, and report it to a moderator.
