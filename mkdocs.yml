@@ -1,5 +1,6 @@
 site_name: Flare Proto
 site_url: https://flare-proto.github.io/
+site_description: random posts and shit from your local beeping proto
 
 theme:
   name: material

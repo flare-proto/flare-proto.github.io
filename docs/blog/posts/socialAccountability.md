@@ -11,7 +11,7 @@ tags:
 ### The playground
 "See something, Say something, Do something"[^1]
 
-|               |                 action                 | How this relates to online situations |
+|               |        The playground - action         | How this relates to online situations |
 | ------------- | -------------------------------------- | ------------------------------------- |
 | See something | If you see bullying                    | cyber bullying, online witch hunts
 | Say something | Inform someone responsible             | Inform a moderator
