@@ -2,6 +2,8 @@
 date: 2025-07-08
 comments: true
 draft: true
+tags:
+    - Open For Contribution
 ---
 # Social Accountability, Social Standards, and Cyber Bullying
 "See something, Say something, Do something"[^1]
@@ -34,4 +36,9 @@ Your online actions have consequences, nothing can be completely removed from th
 
 ***DO NOT*** publicly shame them, cyber bullying and witch hunts only make the situation worse.
 
+### Don't be the annoying house fly
+If you get blocked/banned, don't be the person that creates alt accounts just to prove a point[^2], instead move on and understand that different people have different opinions.
+
+
 [^1]: one of my grade 5 teachers
+[^2]:On many platforms, this is against TOS
