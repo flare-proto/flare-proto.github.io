@@ -1,3 +1,9 @@
+---
+social:
+  cards_layout_options:
+    background_color: blue # Change background color
+    background_image: null # Remove background image
+---
 # Flare Proto
 random posts and shit from your local beeping proto
 

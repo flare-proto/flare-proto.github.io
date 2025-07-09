@@ -1,3 +1,7 @@
+---
+social:
+  cards: false
+---
 # Utility Commands
 random commands that I find useful
 ## Git

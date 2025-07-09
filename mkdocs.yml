@@ -1,4 +1,5 @@
 site_name: Flare Proto
+site_url: https://flare-proto.github.io/
 
 theme:
   name: material
@@ -19,6 +20,7 @@ plugins:
   - blog
   - tags
   - search
+  - social
 
 
   
