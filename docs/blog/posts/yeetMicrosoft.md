@@ -11,6 +11,7 @@ comments: true
 | Windows | :material-check:  |
 | VSCode  | :material-check:  |
 | OneNote | :material-progress-question: |
+| Github  | :material-progress-question: |
 
 ## Windows
 Best alternative I have found: Bazzite
@@ -30,3 +31,7 @@ I use OneNote for physics notes, and have a specific layout I use(⅔ page width
 | [trilium](https://github.com/TriliumNext/Trilium?tab=readme-ov-file)  |  |
 | obsidian | lacks needed features |
 | [joplin](https://joplinapp.org/)   |
+
+## Github
+- Self hosted Gitea
+- gitlab
