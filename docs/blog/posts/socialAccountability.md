@@ -5,11 +5,11 @@ tags:
     - Open For Contribution
 ---
 # Social Accountability, Social Standards, and Cyber Bullying
-"See something, Say something, Do something"[^1]
+> "See something, Say something, Do something"[^1]
 <!-- more -->
 ## Bullying
 ### The playground
-"See something, Say something, Do something"[^1]
+> "See something, Say something, Do something"[^1]
 
 |               |        The playground - action         | How this relates to online situations |
 | ------------- | -------------------------------------- | ------------------------------------- |
@@ -25,10 +25,14 @@ the audience of a joke is important, you would not tell your grandma an offensiv
 
 Jokes that may be acceptable with one group of people, can often not be acceptable with another group.
 
+Every group of people has a different set of social standards.
+
 When you post something online, if what you are saying could be seen as offensive, think twice about posting it, your actions have consequences and will always be part of your digital footprint.
 
 ## Social Accountability
-Your online actions have consequences, nothing can be completely removed from the internet.
+
+> Your online actions have consequences, nothing can be completely removed from the internet.
+It is important to hold pepole accountable
 
 ### Someone made an offensive joke
 ***If*** you are comfortable, tell them, and report it to a moderator.
