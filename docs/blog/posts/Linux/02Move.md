@@ -104,7 +104,7 @@ VSCode user settings
 
 ## Next Steps
 - [ ] move files and accounts
-- [ ] setup VR
+- [x] setup VR
 - [ ] move partitions around
     - this might require a reinstall
 
