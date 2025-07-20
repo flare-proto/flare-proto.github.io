@@ -4,4 +4,14 @@ comments: true
 draft: true
 ---
 # Proot engine 
-https://github.com/pygfx/pygfx
+
+## Data Storage
+### Maps
+XML DOM
+
+`<worldobject x=... y=... z=... xr=... yr=... zr=...></worldobject>`
+
+## 
+
+## TOOLS
+[https://github.com/pygfx/pygfx](https://github.com/pygfx/pygfx)
