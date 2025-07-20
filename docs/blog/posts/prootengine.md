@@ -1,5 +1,5 @@
 ---
-date: 2025-07-13
+date: 2025-07-19
 comments: true
 draft: true
 ---

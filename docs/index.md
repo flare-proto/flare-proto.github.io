@@ -14,7 +14,7 @@ random posts and shit from your local beeping proto
 
 [:simple-github:  flare-proto](https://github.com/flare-proto)
 
-[:simple-mastodon:  flareProto](https://github.com/flare-proto)
+[:simple-mastodon:  flareProto](https://mastodon.social/@flareProto)
 
 
 ## Ref sheet
