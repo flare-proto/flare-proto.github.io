@@ -1,7 +1,6 @@
 ---
 date: 2025-07-19
 comments: true
-draft: true
 ---
 
 # Pronouns Experiment
