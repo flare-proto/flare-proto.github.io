@@ -14,5 +14,10 @@ comments: true
 | S | A | B | C | F |
 | - | - | - | - | - |
 | SHE | IT | THEY | HE | vampself |
-|   | USE NAME (FLARE) | |Sina/sinu| ourselves
+| USE NAME (FLARE) |  | |Sina/sinu| ourselves
 
+more testing needed:
+
+- xe
+- ve
+- ze
