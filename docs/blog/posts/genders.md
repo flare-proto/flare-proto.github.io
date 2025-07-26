@@ -15,13 +15,10 @@ flowchart LR
 
     Cis
     Gender-->Cis
-
-    Multigender 
-    Gender-->Multigender 
-    Bigender
-    Multigender-->Bigender
-    Plurigender
-    Multigender-->Plurigender
+ 
+    Gender-->Multigender:::multigender
+    Multigender-->Bigender:::multigender
+    Multigender-->Plurigender:::multigender
 
     Trans
     Gender-->Trans
@@ -29,8 +26,7 @@ flowchart LR
     Nonbinary
     Trans-->Nonbinary
 
-    Pangender
-    Nonbinary-->Pangender
+    Nonbinary-->Pangender:::multigender
     Multigender-->Pangender
 
     Agender
@@ -55,19 +51,14 @@ flowchart LR
     Nonbinary-->Echogender
 
     Demigender
-    Nonbinary-->Demigender
-    Demigirl
-    Demiboy
-    Demiandrogyne
-    Demitransgender
-    Deminonbinary
+    Nonbinary-->Demigender:::demi
     
-    Demigender-->Demiandrogyne
-    Demigender-->Demigirl
-    Demigender-->Demiboy
-    Demigender-->Demitransgender
-    Demigender-->Deminonbinary
-    Androgyne-->Demiandrogyne
+    Demigender-->Demiandrogyne:::demi
+    Demigender-->Demigirl:::demi
+    Demigender-->Demiboy:::demi
+    Demigender-->Demitransgender:::demi
+    Demigender-->Deminonbinary:::demi
+    Androgyne-->Demiandrogyne:::demi
 
     Idingender
     Nonbinary-->Idingender
@@ -76,69 +67,58 @@ flowchart LR
     Genderfae
     Idingender-->Genderfae
     Genderfluid
-    Idingender-->Genderfluid
-    Demifluid
-    Genderfluid-->Demifluid
+    Idingender-->Genderfluid:::fluix
+    Genderfluid-->Demifluid:::fluix
     Demigender-->Demifluid
-    Mutogender
-    Genderfluid-->Mutogender
+    Genderfluid-->Mutogender:::fluix
     Genderspike
-    Genderfluid-->Genderspike
-    Bigenderspike
-    Genderspike-->Bigenderspike
-    Femspike
-    Genderspike-->Femspike
-    Fem-spike
-    Genderspike-->Fem-spike
+    Genderfluid-->Genderspike:::fluix
+    Genderspike-->Bigenderspike:::multigender
+    Genderspike-->Femspike:::fluix
+
+    Genderspike-->Fem-spike:::fluix
     Masc-spike
-    Genderspike-->Masc-spike
+    Genderspike-->Masc-spike:::fluix
 
     Perifluid
-    Genderfluid-->Perifluid
+    Genderfluid-->Perifluid:::fluix
     Cassfluid
-    Genderfluid-->Cassfluid
+    Genderfluid-->Cassfluid:::fluix
     Xenofluid
-    Genderfluid-->Xenofluid
+    Genderfluid-->Xenofluid:::fluix
     
     Genderglitch
-    Genderfluid-->Genderglitch
+    Genderfluid-->Genderglitch:::fluix
 
     Uxingender
     Nonbinary-->Uxingender
-    Genderflux
-    Uxingender-->Genderflux
-    Anogender
+    Uxingender-->Genderflux:::fluix
     Uxingender-->Anogender
 
-    Fluidflux
-    Genderslide
-    Genderfluid-->Fluidflux 
+    Genderfluid-->Fluidflux:::fluix
     Genderflux-->Fluidflux 
-    Fluidflux-->Genderslide 
+    Fluidflux-->Genderslide:::fluix
 
     Xenogender
     Nonbinary-->Xenogender
 
     Glitchgender
-    Xenogender-->Glitchgender
+    Xenogender-->Glitchgender:::fluix
     Glitchgender-->Genderglitch
-
-    Offgender 
+ 
     Nonbinary-->Offgender
 
-    Rosboy
     Nonbinary-->Rosboy
-    Azurgirl
     Nonbinary-->Azurgirl
 
-    Fingender
     Nonbinary-->Fingender
 
-    Cassgender
     Nonbinary-->Cassgender
 
     
-
+    classDef fluix stroke:#f80
+    classDef multigender stroke:#f00
+    classDef demi stroke:#ff0
 ```
 ## Resources
 - [https://gender.fandom.com](https://gender.fandom.com)
