@@ -12,6 +12,9 @@ Graph of as many genders as I could find
 flowchart LR
     Gender
 
+    Cis
+    Gender-->Cis
+
     Multigender 
     Gender-->Multigender 
     Bigender
