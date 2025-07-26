@@ -7,7 +7,8 @@ tags:
 # Genders
 Graph of as many genders as I could find
 <!-- more -->
-
+!!! warning
+    Not all connections are shown, to make this actualy readable
 ```mermaid
 flowchart LR
     Gender
@@ -19,6 +20,8 @@ flowchart LR
     Gender-->Multigender 
     Bigender
     Multigender-->Bigender
+    Plurigender
+    Multigender-->Plurigender
 
     Trans
     Gender-->Trans
@@ -26,12 +29,24 @@ flowchart LR
     Nonbinary
     Trans-->Nonbinary
 
-    Agender
-    Nonbinary-->Agender
-
     Pangender
     Nonbinary-->Pangender
     Multigender-->Pangender
+
+    Agender
+    Nonbinary-->Agender
+
+    Genderqueer
+    Nonbinary-->Genderqueer
+
+    Neutrois
+    Nonbinary-->Neutrois
+
+    Gendervoid
+    Nonbinary-->Gendervoid
+
+    Androgyne
+    Nonbinary-->Androgyne
 
     Absorgender
     Nonbinary-->Absorgender
@@ -44,9 +59,15 @@ flowchart LR
     Demigirl
     Demiboy
     Demiandrogyne
+    Demitransgender
+    Deminonbinary
+    
+    Demigender-->Demiandrogyne
     Demigender-->Demigirl
     Demigender-->Demiboy
-    Demigender-->Demiandrogyne
+    Demigender-->Demitransgender
+    Demigender-->Deminonbinary
+    Androgyne-->Demiandrogyne
 
     Idingender
     Nonbinary-->Idingender
@@ -63,9 +84,8 @@ flowchart LR
     Genderfluid-->Mutogender
     Genderspike
     Genderfluid-->Genderspike
-    
-    
-
+    Bigenderspike
+    Genderspike-->Bigenderspike
     Femspike
     Genderspike-->Femspike
     Fem-spike
@@ -73,6 +93,13 @@ flowchart LR
     Masc-spike
     Genderspike-->Masc-spike
 
+    Perifluid
+    Genderfluid-->Perifluid
+    Cassfluid
+    Genderfluid-->Cassfluid
+    Xenofluid
+    Genderfluid-->Xenofluid
+    
     Genderglitch
     Genderfluid-->Genderglitch
 
@@ -106,6 +133,11 @@ flowchart LR
 
     Fingender
     Nonbinary-->Fingender
+
+    Cassgender
+    Nonbinary-->Cassgender
+
+    
 
 ```
 ## Resources
