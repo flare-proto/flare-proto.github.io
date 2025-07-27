@@ -1,7 +1,6 @@
 ---
-date: 2025-07-26
+date: 2025-07-27
 comments: true
-draft: true
 ---
 # Flare's lore
 !!! Note
@@ -30,8 +29,11 @@ However, while attempting to make the auto repair faster, Flare accidentally res
 Due to the sudden discovery about this partial shapeshifting, Flare developed a program that links gender to the `bio-sx` flag.
 
 ### Clothing
-Under normal situations, Flare prefers the metal armour, however Flare has been known to wear tanktops and croptops while fem.
+Under normal situations, Flare prefers metal armour, however Flare has been known to wear tanktops and croptops while fem.
 On occasion, Flare enjoys wear thighhighs and arm-warmers.
+
+- Most of the metal armor is removable
+    - Except connector rings and the visor
 
 ### Joke Lore
 - Flare growls like the AIM-9 Sidewinder
