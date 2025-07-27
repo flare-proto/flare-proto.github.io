@@ -18,9 +18,13 @@ Flare is a `XRT-02 MK.5` model protogen(eXperimental Repair Tech design 2 MarK 5
 
 Flare is extremely genderfluid, and would commonly gets quite dysphoric before they developed the shapeshifting tech 
 
-|        |        |
-| ------ | ------ |
-| Height | 182cm (6')
+|              |        |
+| ------------ | ------ |
+| Height       | 182cm (6') |
+| Gender       | Fluid |
+| Pronouns     | depends (she/it/they/he)
+| OS           | ProtOS-ex |
+| % Artificial | 65%
 
 ### Shapeshifter
 Flare is actually 65% artificial, they don't appear as such due to their flesh being infused with nanites.
