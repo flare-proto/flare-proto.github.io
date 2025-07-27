@@ -19,3 +19,8 @@ Flare is a `XRT-02 MK.5` model protogen(eXperimental Repair Tech design 2 MarK 5
 
 Flare is extremely genderfluid, and would commonly gets quite dysphoric before they developed the shapeshifting tech 
 
+### Shapeshifter
+Flare is actually 65% artificial, they don't appear as such due to their flesh being infused with nanites.
+Originally, the nanites infused in Flare's flesh were only able to repair incase of damage.
+However, while attempting to make the auto repair faster, Flare accidentally reset the `/etc/proto/nanite/repair.conf` and `/var/proto/nanite/repair/state.prtg` files, triggering a full repair with the `bio-sx` flag incorrectly set to `F`. After 15min Flare suddenly noticed that they suddenly appeared fem.
+Due to the sudden discovery about this partial shapeshifting, Flare developed a program that links gender to the `bio-sx` flag.
