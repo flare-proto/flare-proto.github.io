@@ -20,6 +20,8 @@ random posts and shit from your local beeping proto
 
 :simple-discord:  flare_the_protogen
 
+[pronouns page](https://en.pronouns.page/@flare_proto)
+
 
 ## Ref sheet
 ![Ref Sheet](flareRefSheet.png)
