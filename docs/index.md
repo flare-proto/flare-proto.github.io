@@ -20,6 +20,10 @@ random posts and shit from your local beeping proto
 
 :simple-discord:  flare_the_protogen
 
+:simple-telegram:  Flare_protogen
+
+:simple-signal:  flare_proto.43
+
 [pronouns page](https://en.pronouns.page/@flare_proto)
 
 
