@@ -18,6 +18,8 @@ random posts and shit from your local beeping proto
 
 [:simple-mastodon:  flareProto](https://mastodon.social/@flareProto)
 
+:simple-discord:  flare_the_protogen
+
 
 ## Ref sheet
 ![Ref Sheet](flareRefSheet.png)
