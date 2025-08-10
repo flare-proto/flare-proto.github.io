@@ -7,12 +7,25 @@ social:
 # Flare Proto
 random posts and shit from your local beeping proto
 
+`it/its` otherkin protogen
+
 ## Links
 [:simple-bluesky:  flare.protogen.club](https://bsky.app/profile/flare.protogen.club)
 
 [:simple-youtube:  @FlareProtogen](https://www.youtube.com/@FlareProtogen)
 
 [:simple-github:  flare-proto](https://github.com/flare-proto)
+
+[:simple-mastodon:  flareProto](https://mastodon.social/@flareProto)
+
+:simple-discord:  flare_the_protogen
+
+:simple-telegram:  Flare_protogen
+
+:simple-signal:  flare_proto.43
+
+[pronouns page](https://en.pronouns.page/@flare_proto)
+
 
 ## Ref sheet
 ![Ref Sheet](flareRefSheet.png)

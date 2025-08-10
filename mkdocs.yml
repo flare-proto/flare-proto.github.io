@@ -2,6 +2,7 @@ site_name: Flare Proto
 site_url: https://flare-proto.github.io/
 site_description: random posts and shit from your local beeping proto
 
+
 theme:
   name: material
   custom_dir: overrides
@@ -12,6 +13,7 @@ theme:
   features:
     - navigation.indexes
     - search.suggest
+    - navigation.footer
   icon:
     tag:
       WX: material/weather-tornado
@@ -21,16 +23,8 @@ plugins:
   - blog
   - tags
   - search
-  - social
-  - rss:
-      match_path: blog/posts/.* 
 
-      comments_path: "#__comments"
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
+
 
 
   
@@ -47,8 +41,14 @@ markdown_extensions:
   - md_in_html
   - pymdownx.blocks.caption
   - footnotes
+  - footnotes
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji:
@@ -57,3 +57,14 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/bluesky 
+      link: https://bsky.app/profile/flare.protogen.club
+    - icon: fontawesome/brands/github
+      link: https://github.com/flare-proto
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@FlareProtogen
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@flareProto
