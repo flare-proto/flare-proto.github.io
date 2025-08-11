@@ -18,7 +18,7 @@ I am DONE with microsoft's BS with windows
 | Bazzite | 5 |
 
 === "Arch"
-    ![Arch](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/256px-Arch_Linux_%22Crystal%22_icon.svg.png){ width=25}
+    ![Arch](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg){ width=25}
 
     Pros
 
@@ -34,7 +34,7 @@ I am DONE with microsoft's BS with windows
     - Audio
 
 === "Ubuntu"
-    ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png?20120210072525){ width=25}
+    ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg){ width=25}
 
     Pros
 
@@ -47,7 +47,7 @@ I am DONE with microsoft's BS with windows
     - not made for gaming
 
 === "SteamOS"
-    ![SteamOS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/SteamOS_wordmark.svg/600px-SteamOS_wordmark.svg.png?20241211180232){ width=100 }
+    ![SteamOS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/SteamOS_wordmark.svg){ width=100 }
 
     ***Not currently available for my hardware***
 
@@ -67,7 +67,7 @@ I am DONE with microsoft's BS with windows
     - not intended for developers
 
 === "Bazzite"
-    ![Bazzite](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bazzite_Logo.svg/600px-Bazzite_Logo.svg.png?20240627153253){ width=25}
+    ![Bazzite](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bazzite_Logo.svg/){ width=25}
 
     !!! warning
         Hostile devs and poor performance

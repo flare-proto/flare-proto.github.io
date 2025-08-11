@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 # Moving To Linux - Phase 1
-Distro: Bazzite ![Bazzite](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bazzite_Logo.svg/600px-Bazzite_Logo.svg.png?20240627153253){ width=25}
+Distro: Bazzite ![Bazzite](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bazzite_Logo.svg){ width=25}
 
 !!! warning
         Bazzite has hostile devs and poor performance
