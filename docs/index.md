@@ -12,6 +12,8 @@ random posts and shit from your local beeping proto
 ## Links
 [:simple-bluesky:  flare.protogen.club](https://bsky.app/profile/flare.protogen.club)
 
+[:simple-bluesky:  flareprotogen.bsky.social](https://bsky.app/profile/flareprotogen.bsky.social)
+
 [:simple-youtube:  @FlareProtogen](https://www.youtube.com/@FlareProtogen)
 
 [:simple-github:  flare-proto](https://github.com/flare-proto)
