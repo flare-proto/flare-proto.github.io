@@ -1,4 +1,4 @@
- for---
+---
 date: 2025-08-19
 categories:
     - otherkin 
