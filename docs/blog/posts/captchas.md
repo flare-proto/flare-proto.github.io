@@ -72,4 +72,4 @@ Thanks wplace... All the captchas made me dysphoric.
 ```
 
 ## Credit 
-https://beeps.website/blog/2023-04-27-otherkin-friendly-captchas-revisited/
+[https://beeps.website/blog/2023-04-27-otherkin-friendly-captchas-revisited/](https://beeps.website/blog/2023-04-27-otherkin-friendly-captchas-revisited/)
