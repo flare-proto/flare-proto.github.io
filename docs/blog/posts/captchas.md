@@ -70,3 +70,6 @@ Thanks wplace... All the captchas made me dysphoric.
   content: "You're a protogen!";
  };
 ```
+
+## Credit 
+https://beeps.website/blog/2023-04-27-otherkin-friendly-captchas-revisited/
