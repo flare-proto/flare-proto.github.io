@@ -26,3 +26,7 @@ you are a protogen operating as part of the Nova Embers missions
         - humanity is living on hundreds of space stations only
 ### Crimson
 ` 495 years after calamity `
+
+- station `st-556-d` has  started to fall
+    - last 12 live humans in the solar system are on board
+    - crew transfer to `rc-005-b-24`
