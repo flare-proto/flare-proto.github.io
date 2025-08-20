@@ -1,5 +1,5 @@
 ---
-date: 2025-08-19
+date: 2025-08-20
 categories:
     - into the night 
 tags:
@@ -30,3 +30,7 @@ you are a protogen operating as part of the Nova Embers missions
 - station `st-556-d` has  started to fall
     - last 12 live humans in the solar system are on board
     - crew transfer to `rc-005-b-24`
+### Nova Embers
+` 1235+ years after calamity `
+- since crimson, logs of events are not accurate 
+- humanity no longer exists, after an event known as "the shift"
