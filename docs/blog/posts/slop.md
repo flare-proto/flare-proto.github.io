@@ -4,6 +4,7 @@ comments: true
 ---
 
 # Internet slop
+<!-- more -->
 ```mermaid
 flowchart LR
     InternetSlop
