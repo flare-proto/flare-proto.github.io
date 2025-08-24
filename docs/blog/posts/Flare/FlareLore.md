@@ -38,6 +38,13 @@ comments: true
 due to Flare being genderfluid, a special system to allow flare to always match its gender.
 [[FUNCTIONALITY REDACTED]]
 
+#### Discovery
+
+!!! Note
+    even though this is in the lore of Flare, this talks about how Flare discovered its self IRL
+
+June 2025 - Captcha hell
+
 ### ⎇(Split-Off)
 !!! Note
     Flare is an Non-Cannon Protogen
