@@ -7,6 +7,7 @@ categories:
 comments: true
 ---
 # Into the night - concept
+<!-- more -->
 you are a protogen operating as part of the Nova Embers missions
 
 ## The missions
