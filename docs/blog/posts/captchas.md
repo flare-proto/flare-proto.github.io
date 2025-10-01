@@ -68,7 +68,7 @@ Thanks wplace... All the captchas made me dysphoric.
 /* 5 */ .text[data-loc="t_completed"]::before {
   /* Message that usually appears after completing a challenge. */
   content: "You're a protogen!";
- };
+ }
 ```
 
 ## Credit 
