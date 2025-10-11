@@ -1,7 +1,7 @@
 ---
 date: 2025-08-19
 categories:
-    - otherkin 
+    - otherkin
 tags:
     - otherkin
 comments: true
