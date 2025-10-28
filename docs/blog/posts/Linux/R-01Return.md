@@ -6,6 +6,7 @@ tags:
     - Windows
 ---
 # Returning to Windows
+<!-- more -->
 ## Installing
 
 - download a windows 10 iso
