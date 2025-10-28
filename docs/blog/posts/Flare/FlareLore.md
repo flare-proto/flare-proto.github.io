@@ -22,29 +22,9 @@ comments: true
 | Complex Nanite Function<br>Non-Cannon(Rare) |![alt text](nanites.png){ width=45px}
 
 ## Lore
-
-### Δ / .7
-|              |        |
-| ------------ | ------ |
-| Height       | 182cm (6') |
-| Gender       | Girl(Transfem) |
-| Pronouns     | She/it |
-| OS           | [[REDACTED]] |
-| % Artificial | [[REDACTED]]
-
-#### Special Functionality
-##### Shapeshift
-
-[[FUNCTIONALITY REDACTED]]
-
-#### Discovery
-
-!!! Note
-    even though this is in the lore of Flare, this talks about how Flare discovered its self IRL
-
-June 2025 - Captcha hell
-
 ### ⎇(Split-Off)
+!!! Tip "Art"
+    If you are making art of flare, this is the version to do
 !!! Note
     Flare is an Non-Cannon Protogen
 
@@ -75,6 +55,27 @@ On occasion, Flare enjoys wear thigh highs and arm-warmers.
 
 #### Joke Lore
 - Flare growls like the AIM-9 Sidewinder
+
+### Δ / .7
+|              |        |
+| ------------ | ------ |
+| Height       | 182cm (6') |
+| Gender       | Girl(Transfem) |
+| Pronouns     | She/it |
+| OS           | [[REDACTED]] |
+| % Artificial | [[REDACTED]]
+
+#### Special Functionality
+##### Shapeshift
+
+[[FUNCTIONALITY REDACTED]]
+
+#### Discovery
+
+!!! Note
+    even though this is in the lore of Flare, this talks about how Flare discovered its self IRL
+
+June 2025 - Captcha hell
 
 
 ## notes
