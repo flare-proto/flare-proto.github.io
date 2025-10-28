@@ -9,6 +9,9 @@ comments: true
 
     ![genderfluid](/Assets/mtnt_2024.06_short_svg/emoji/gender_sexuality_relationships/flags/genderfluid_flag.svg){ width=25}
 
+    !!! Warning "Out of date"
+        this is out of date
+
 <!-- more -->
 
 | S | A | B | C | F |
