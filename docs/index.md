@@ -7,7 +7,7 @@ social:
 # Flare Proto
 random posts and shit from your local beeping proto
 
-`it/its` otherkin protogen
+`She/it` transfem otherkin protogen
 
 ## Links
 [:simple-bluesky:  flare.protogen.club](https://bsky.app/profile/flare.protogen.club)

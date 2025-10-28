@@ -48,7 +48,9 @@ June 2025 - Captcha hell
 !!! Note
     Flare is an Non-Cannon Protogen
 
-Flare is a `XRT-02 MK.5` model protogen(eXperimental Repair Tech design 2 MarK 5) serial number `F1AR3`, however, most just refer to them as Flare.
+![Ref Sheet](flareRefSheet.png)
+
+Flare is a `XRT-02 MK.5` model protogen(eXperimental Repair Tech design 2 MarK 5) serial number `F1AR3`, however, most just refer to her as Flare.
 
 Flare is extremely transfem, and would commonly get quite dysphoric before they developed the shapeshifting tech 
 
@@ -74,3 +76,11 @@ On occasion, Flare enjoys wear thigh highs and arm-warmers.
 #### Joke Lore
 - Flare growls like the AIM-9 Sidewinder
 
+
+## notes
+
+!!! Note
+    `[[FUNCTIONALITY REDACTED]]` exists to indicate lore that has not been written yet
+
+!!! Warning
+    some lore is being rewritten due to me now being trans
