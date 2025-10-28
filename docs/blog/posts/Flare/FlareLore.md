@@ -29,10 +29,21 @@ comments: true
     Flare is an Non-Cannon Protogen
 
 ![Ref Sheet](flareRefSheet.png)
+??? Note "Art"
+    !!! Tip "Colors"
+        | Part | hex |
+        | ---- | --- |
+        | Fur  | `#f5a311`
+        | Dark Fur | `#131313`
+        | metal | `#959595`
+        | Visor | `#000000`
+        | LEDs  | `#f45b0f`
 
-Flare is a `XRT-02 MK.5` model protogen(eXperimental Repair Tech design 2 MarK 5) serial number `F1AR3`, however, most just refer to her as Flare.
-
-Flare is extremely transfem, and would commonly get quite dysphoric before they developed the shapeshifting tech 
+    !!! danger "Rules"
+        - ask for permission
+        - no NSFW
+        - no over the top gore
+#### Fast Facts
 
 |              |        |
 | ------------ | ------ |
@@ -40,7 +51,12 @@ Flare is extremely transfem, and would commonly get quite dysphoric before they 
 | Gender       | Girl(Transfem) |
 | Pronouns     | She/it |
 | OS           | ProtOS-ex |
-| % Artificial | 65%
+| % Artificial | 65% |
+| Country      | Canada
+
+Flare is a `XRT-02 MK.5` model protogen(eXperimental Repair Tech design 2 MarK 5) serial number `F1AR3`, however, most just refer to her as Flare.
+
+Flare is extremely transfem, and would commonly get quite dysphoric before they developed the shapeshifting tech 
 
 #### Shapeshifter
 
