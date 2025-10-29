@@ -30,7 +30,7 @@ random posts and shit from your local beeping proto
 
 
 ## Ref sheet
-![Ref Sheet](flareRefSheet.png)
+![Ref Sheet](flarerefsheet.png.png)
 
 ## Projects
 > links and pages coming soon 

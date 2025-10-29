@@ -28,7 +28,7 @@ comments: true
 !!! Note
     Flare is an Non-Cannon Protogen
 
-![Ref Sheet](flareRefSheet.png)
+![Ref Sheet](flarerefsheet.png.png)
 ??? Note "Art"
     !!! Tip "Colors"
         | Part | hex |
