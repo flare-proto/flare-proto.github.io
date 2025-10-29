@@ -90,7 +90,7 @@ On occasion, Flare enjoys wear thigh highs and arm-warmers.
 #### Discovery
 
 !!! Note
-    even though this is in the lore of Flare, this talks about how Flare discovered its self IRL
+    even though this is in the lore of Flare, this talks about how Flare discovered her self IRL
 
 June 2025 - Captcha hell
 
