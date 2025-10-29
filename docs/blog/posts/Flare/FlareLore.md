@@ -50,6 +50,7 @@ comments: true
 | Height       | 182cm (6') |
 | Gender       | Girl(Transfem) |
 | Pronouns     | She/it |
+| Age          | 17 |
 | OS           | ProtOS-ex |
 | % Artificial | 65% |
 | Country      | Canada
