@@ -3,7 +3,7 @@ date: 2025-12-06
 comments: true
 ---
 # All my computers
-
+<!-- more -->
 | pc | drives | cpu | fate |
 | -- | ------ | --- | ---- |
 | VXP | UNKNOWN | UNKNOWN |ram failure - ewaste |
