@@ -10,9 +10,8 @@ random posts and shit from your local beeping proto
 `She/it` transfem otherkin protogen
 
 ## Links
-[:simple-bluesky:  flare.protogen.club](https://bsky.app/profile/flare.protogen.club)
 
-[:simple-bluesky:  flareprotogen.bsky.social](https://bsky.app/profile/flareprotogen.bsky.social)
+[:simple-bluesky:  flare.protogen.club](https://bsky.app/profile/flare.protogen.club)
 
 [:simple-youtube:  @FlareProtogen](https://www.youtube.com/@FlareProtogen)
 
@@ -20,16 +19,21 @@ random posts and shit from your local beeping proto
 
 [:simple-mastodon:  flareProto](https://mastodon.social/@flareProto)
 
-:simple-matrix: @flareprotogen:federated.nexus
-
-:simple-discord:  flare_the_protogen
-
-:simple-telegram:  Flare_protogen
-
-:simple-signal:  flare_proto.43
-
-
 [pronouns page](https://en.pronouns.page/@flare_proto)
+
+### DM me
+
+|                 |                 |
+| --------------- | --------------- |
+| :simple-matrix: matrix | @flareprotogen:federated.nexus |
+| :simple-discord: discord | flare_the_protogen |
+| :simple-telegram: telegram | Flare_protogen |
+| :simple-signal: signal |  flare_proto.43 |
+| Stoat | FlareProtogen#5216 |
+| Fluxer | Flare#4216 |
+
+
+
 
 
 ## Ref sheet
