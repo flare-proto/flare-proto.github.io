@@ -15,6 +15,8 @@ random posts and shit from your local beeping proto
 
 [:simple-youtube:  @FlareProtogen](https://www.youtube.com/@FlareProtogen)
 
+[:simple-codeberg: FlareProto](https://codeberg.org/FlareProto)
+
 [:simple-github:  flare-proto](https://github.com/flare-proto)
 
 [:simple-mastodon:  flareProto](https://mastodon.social/@flareProto)
