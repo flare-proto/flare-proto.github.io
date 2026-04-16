@@ -3,9 +3,11 @@ date: 2026-04-16
 categories:
     - privacy
     - AGE-VERIFICATION
+    - Capitalist-Greed
 tags:
     - privacy
     - AGE-VERIFICATION
+    - Capitalist-Greed
 comments: true
 ---
 # Privacy is dead
@@ -25,18 +27,19 @@ what about pepole that do not want to be known by their "official identity"? peo
 this could easly be used to silence already opressed groups, push regional political ideals, let "the undesirables" be tracked, track people involved in protests, connect IRL people's connections and friendships with who they interact with irl, track your EVERY move
 
 !!! warning
-    if you are LGBTQ+ ***DO NOT*** age verify
+    if you are LGBTQ+ ***ABSOLUTELY DO NOT*** age verify ***EVER***
 
 ## what about what happens to my data AFTER I verify?
 is it stored? it probably is, its what they actualy want. is it sold? probably, companies want more money.
 
-ID photos? probably saved.
+ID photos? probably saved and sold.
 
 what if theres a data breach? guess what now your data is prob on the dark web INCLUDING YOUR ID.
 
+identity theifts will probably become real common in the near future now
 
 ## The solution
-move to linux while you can, use decenteralized social media - mastodon, matrix, lemmy, fluxer(not fedderated/decenteralized YET), IRC. support small companies (resonite > VRC). use alternate search engines (SearXNG, duck duck go).
+move to linux while you can(choose a distro that isnt planning to implement it, see https://github.com/BryanLunduke/DoesItAgeVerify), use a degoogled version of android or use mobile linux, use decenteralized social media - mastodon, matrix, lemmy, fluxer(not fedderated/decenteralized YET), IRC. support small companies (resonite > VRC). use alternate search engines instead of google (SearXNG, duck duck go).
 
 try using a mclovin id for age verification. use TOR when you are interacting with contravertial media(LGBTQ+ topics, protests, **ANYTHING** political)
 
