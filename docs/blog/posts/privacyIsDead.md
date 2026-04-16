@@ -19,14 +19,24 @@ but what about anyone that cant/doesnt want to share that data? are we stuck? fo
 
 Os level has its own problems too, OSes that can not afford giant data centers, servers, embedded oses, devices that will never connect to the internet, do i need to "verify my age" to use my ti-84, what if i make my own OS, what happens then?
 
-what about pepole that do not want to be known by their "official identity"? people that are trans? people that are fleeing dangerous situations?
+what about pepole that do not want to be known by their "official identity"? people that are trans? people that are fleeing dangerous situations? people that are avoiding stalkers?
 
-this could easly be used to silence already opressed groups, push regional political ideals, and let "the undesirables" be tracked
+this could easly be used to silence already opressed groups, push regional political ideals, let "the undesirables" be tracked, track people involved in protests
 
 !!! warning
     if you are LGBTQ+ ***DO NOT*** age verify
 
+## what about what happens to my data AFTER I verify?
+is it stored? it probably is, its what they actualy want. is it sold? probably, companies want more money.
+
+ID photos? probably saved.
+
+what if theres a data breach? guess what now your data is prob on the dark web INCLUDING YOUR ID.
+
+
 ## The solution
-move to linux while you can, use decenteralized social media - bluesky(kinda), mastodon, matrix, lemmy, fluxer(not fedderated/decenteralized YET), IRC. support small companies (resonite > VRC)
+move to linux while you can, use decenteralized social media - mastodon, matrix, lemmy, fluxer(not fedderated/decenteralized YET), IRC. support small companies (resonite > VRC). use alternate search engines (SearXNG, duck duck go).
+
+try using a mclovin id for age verification.
 
 ***Do NOT let privacy go extinct***
