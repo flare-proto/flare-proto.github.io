@@ -14,6 +14,7 @@ comments: true
 big companies want **YOUR** data
 privacy is dead, greedy companies killed it for "safety"
 <!-- more -->
+## The problem
 big companies want **YOUR** data,
 what better way to get it than getting governments to force you to share it by claiming its for "child safety".
 When all it actualy is, is that they want your data to make ads more personalized by forcing you to connect all your online accounts to one identity, your face or ID 
@@ -29,7 +30,7 @@ this could easly be used to silence already opressed groups, push regional polit
 !!! warning
     if you are LGBTQ+ ***ABSOLUTELY DO NOT*** age verify ***EVER***
 
-## what about what happens to my data AFTER I verify?
+### what about what happens to my data AFTER I verify?
 is it stored? it probably is, its what they actualy want. is it sold? probably, companies want more money.
 
 ID photos? probably saved and sold.
