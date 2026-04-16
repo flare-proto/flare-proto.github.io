@@ -40,7 +40,7 @@ what if theres a data breach? guess what now your data is prob on the dark web I
 identity theifts will probably become real common in the near future now
 
 ## The solution
-move to linux while you can(choose a distro that isnt planning to implement it, see https://github.com/BryanLunduke/DoesItAgeVerify), use a degoogled version of android or use mobile linux, use decenteralized social media - mastodon, matrix, lemmy, fluxer(not fedderated/decenteralized YET), IRC. support small companies (resonite > VRC). use alternate search engines instead of google (SearXNG, duck duck go).
+move to linux while you can(choose a distro that isnt planning to implement it, see [https://github.com/BryanLunduke/DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify) ), use a degoogled version of android or use mobile linux, use decenteralized social media - mastodon, matrix, lemmy, fluxer(not fedderated/decenteralized YET), IRC. support small companies (resonite > VRC). use alternate search engines instead of google (SearXNG, duck duck go).
 
 try using a mclovin id for age verification. use TOR when you are interacting with contravertial media(LGBTQ+ topics, protests, **ANYTHING** political)
 
