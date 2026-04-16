@@ -9,6 +9,7 @@ tags:
 comments: true
 ---
 # Privacy is dead
+big companies want **YOUR** data
 privacy is dead, greedy companies killed it for "safety"
 <!-- more -->
 big companies want **YOUR** data,
@@ -21,7 +22,7 @@ Os level has its own problems too, OSes that can not afford giant data centers, 
 
 what about pepole that do not want to be known by their "official identity"? people that are trans? people that are fleeing dangerous situations? people that are avoiding stalkers?
 
-this could easly be used to silence already opressed groups, push regional political ideals, let "the undesirables" be tracked, track people involved in protests
+this could easly be used to silence already opressed groups, push regional political ideals, let "the undesirables" be tracked, track people involved in protests, connect IRL people's connections and friendships with who they interact with irl, track your EVERY move
 
 !!! warning
     if you are LGBTQ+ ***DO NOT*** age verify
@@ -37,6 +38,9 @@ what if theres a data breach? guess what now your data is prob on the dark web I
 ## The solution
 move to linux while you can, use decenteralized social media - mastodon, matrix, lemmy, fluxer(not fedderated/decenteralized YET), IRC. support small companies (resonite > VRC). use alternate search engines (SearXNG, duck duck go).
 
-try using a mclovin id for age verification.
+try using a mclovin id for age verification. use TOR when you are interacting with contravertial media(LGBTQ+ topics, protests, **ANYTHING** political)
+
+dont give big companies your money and data just to watch shows and movies, "its nice sailing on the high seas"
 
 ***Do NOT let privacy go extinct***
+
