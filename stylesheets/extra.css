@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "nerdRobotoMono";
+  src: url("RobotoMonoNerdFontMono-Regular.ttf");
+}
+:root {
+  --md-code-font: "nerdRobotoMono";
+}
