@@ -70,7 +70,7 @@ I recommend the [federated.nexus](https://federated.nexus) home server
 #### Alternative 3: IRC(Internet relay chat)
 | | |
 |-|-|
-|:material-check:|Federated[^3]|
+|:material-close:|Federated|
 |:material-close:|E2EE|
 |:material-close:|Calls|
 |:material-close:|Streams|
@@ -82,7 +82,6 @@ The ORIGINAL instant text chat platform
 - [https://en.wikipedia.org/wiki/IRC](https://en.wikipedia.org/wiki/IRC)
 - [https://www.youtube.com/watch?v=6UbKenFipjo](https://www.youtube.com/watch?v=6UbKenFipjo)
 
-[^3]: Originally was, less common now
 
 ### Bluesky
 #### Alternative 1: Mastodon
