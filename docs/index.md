@@ -28,11 +28,10 @@ random posts and shit from your local beeping proto
 |                 |                 |
 | --------------- | --------------- |
 | :simple-matrix: matrix | @flareprotogen:federated.nexus |
+| Fluxer | Flare#4216 |
 | :simple-discord: discord | flare_the_protogen |
 | :simple-telegram: telegram | Flare_protogen |
 | :simple-signal: signal |  flare_proto.43 |
-| Stoat | FlareProtogen#5216 |
-| Fluxer | Flare#4216 |
 
 
 
