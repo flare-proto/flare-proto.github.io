@@ -1,7 +1,5 @@
 ---
 date: 2026-10-02
-authors:
-    - kate
 categories:
     - AGE-VERIFICATION
     - privacy
@@ -12,8 +10,6 @@ tags:
     - Open For Contribution
     - Capitalist-Greed
 comments: true
-social:
-  cards: true
 ---
 # Age verification is isolating people
 
