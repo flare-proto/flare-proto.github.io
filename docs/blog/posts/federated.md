@@ -41,7 +41,7 @@ these are alternatives to some platforms that i use
 |:material-check:|Calls[^2]|
 |:material-check:|Streams[^2]|
 |:material-check:|Images and gifs[^2]|
-|7/10|Ease of use|
+|6/10|Ease of use|
 
 I recommend the [federated.nexus](https://federated.nexus) home server
 
@@ -84,7 +84,7 @@ The ORIGINAL instant text chat platform
 
 [^3]: servers can be bridged with other servers, as long as server ops agree
 
-### Bluesky
+### Bluesky/Twitter/X
 #### Alternative 1: Mastodon
 | | |
 |-|-|
@@ -93,3 +93,10 @@ The ORIGINAL instant text chat platform
 |10/10|Ease of use|
 
 follow @ap.brid.gy on bluesky to bridge your bluesky account to have it appear on mastodon
+
+#### Alternative 2: Bluesky
+| | |
+|-|-|
+|:material-check:|Federated|
+|:material-check:|Images and gifs|
+|10/10|Ease of use|
