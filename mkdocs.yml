@@ -1,5 +1,5 @@
 site_name: Flare Proto
-site_url: https://flare-proto.github.io/
+site_url: https://flare.prtgn.org
 site_description: random posts and shit from your local beeping proto
 
 
@@ -24,6 +24,10 @@ plugins:
   - blog
   - tags
   - search
+  - social:
+      cards_layout: custom.yml
+
+
 
 
 

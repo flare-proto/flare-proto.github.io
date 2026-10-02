@@ -9,7 +9,7 @@ authors = [
 requires-python = ">=3.14"
 dependencies = [
     "cryptography>=50.0.1",
-    "mkdocs-material>=9.7.7",
+    "mkdocs-material[imaging]>=9.7.7",
     "pgpy13>=0.6.1rc1",
 ]
 
